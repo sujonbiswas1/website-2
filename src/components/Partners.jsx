@@ -9,7 +9,7 @@ const Partners = () => {
 
             <div className='py-10 flex justify-center'>
                 <Marquee>
-                      <img src={logos} alt="" />
+                      <img src={logos} alt="logo" />
                 </Marquee>
               
 
