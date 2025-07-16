@@ -1,5 +1,5 @@
 import React from 'react'
-import images from '/inpactbg.png'
+
 const Inpact = () => {
   return (
     <section className='bg-[url(/Inpactbg.png)] px-8 sm:px-10 md:px-14 lg:px-20 py-20 mx-auto bg-center bg-cover'>
