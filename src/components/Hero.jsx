@@ -3,7 +3,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <section className='bg-[url(../assets/Herobg.png)] w-full bg-center bg-cover bg-no-repeat  py-10'>
+    <section className='bg-[url(./assets/herobg.png)] w-full bg-center bg-cover bg-no-repeat  py-10'>
    <div className='py-16 px-8 sm:px-10 md:px-14 lg:px-20'>
      <div className='w-full md:w-1/2 space-y-5'>
         <h2 className='text-primary text-2xl'>AI SDRs (aiDRs)</h2>

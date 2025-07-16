@@ -2,7 +2,7 @@ import React from 'react'
 
 const Inpact = () => {
   return (
-    <section className='bg-[url(/Inpactbg.png)] px-8 sm:px-10 md:px-14 lg:px-20 py-20 mx-auto bg-center bg-cover'>
+    <section className='bg-[url(/inpactbg.png)] px-8 sm:px-10 md:px-14 lg:px-20 py-20 mx-auto bg-center bg-cover'>
         <div >
             <div className='w-4/5 space-y-3'>
             <h2 className='text-2xl sm:text-3xl md:text-4xl max-w-lg'>Allocate effort where your reps make an inpact.</h2>

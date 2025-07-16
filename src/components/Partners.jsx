@@ -9,7 +9,7 @@ const Partners = () => {
 
             <div className='py-12 flex justify-center'>
                 <Marquee>
-                      <img src="/logos.png" alt="logos" />
+                      <img src="/Logos.png" alt="logos" />
                 </Marquee>
               
 
