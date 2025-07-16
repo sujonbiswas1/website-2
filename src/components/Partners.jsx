@@ -1,5 +1,5 @@
 import React from 'react'
-import logos from '../assets/logos.png'
+
 import Marquee from "react-fast-marquee";
 const Partners = () => {
   return (
@@ -9,7 +9,7 @@ const Partners = () => {
 
             <div className='py-10 flex justify-center'>
                 <Marquee>
-                      <img src={logos} alt="logo" />
+                      <img src="/logos.png" alt="logo" />
                 </Marquee>
               
 
